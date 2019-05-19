@@ -4,18 +4,18 @@ This is our take on Flood filling network to improve accuracy of traditional Seg
 
 Traditional architecture for segmentation, which was trained on 9000 images and tested on 1000 images.
 
-![NN1 Architecture](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/filesNN1_architecture.png)
+![NN1 Architecture](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/files/NN1_architecture.png)
 
 Our Architecture(of two neural nets) was trained on collectively 9000 images and tested on 1000 images.
-![FFN Architecture](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/filesFFN_architecture.png)
+![FFN Architecture](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/files/FFN_architecture.png)
 
 ## Idea Doc
-	[Idea](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/filesidea.pdf)
+	[Idea](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/files/idea.pdf)
 
 
 
 ## Presentation
-	[Idea](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/filesppt.pdf)
+	[Idea](https://github.com/hasagar97/Flood-Filling-Networks/tree/master/files/ppt.pdf)
 
 
 ## Conclusion
